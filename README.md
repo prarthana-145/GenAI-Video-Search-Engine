@@ -2,7 +2,7 @@
 
 A lightweight semantic search engine for AI-focused YouTube transcripts. Ask in natural language and get the most relevant transcript snippets instantly.
 
-![Example Output](images/soln.jpg)
+![Example Output](soln.jpg)
 *Sample search result for “reinforcement learning”*
 
 ---
@@ -14,7 +14,7 @@ A lightweight semantic search engine for AI-focused YouTube transcripts. Ask in 
 * **Fast & Accurate:** Uses `all-MiniLM-L6-v2` for 384‑dim embeddings.
 * **Comparison:** Outperforms default Microsoft model in relevance (see below).
 
-![Model Comparison](images/compare.jpg)
+![Model Comparison](compare.jpg)
 *Our search vs. Microsoft model*
 
 ---
