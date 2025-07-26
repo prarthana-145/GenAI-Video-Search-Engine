@@ -1,7 +1,7 @@
 # 🎥 GenAI Video Semantic Search
 
 Selected in the Samsung PRISM Program, developed under the guidance of Thapar Institute of Engineering and Technology faculty and Samsung mentors, with a research paper on this work currently in progress.
-![certificate](prism certificate.pdf)
+![certificate](prism_certificate.jpg)
 
 A lightweight semantic search engine for AI-focused YouTube transcripts. Ask in natural language and get the most relevant transcript snippets instantly.
 
